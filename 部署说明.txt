@@ -1,0 +1,19 @@
+
+
+sudo pip install chardet
+sudo pip install MySQL-python
+
+安装
+sudo pip uninstall django
+sudo pip install gensim
+sudo pip install requests_toolbelt
+
+启动
+sudo nohup python manage.py runserver 0.0.0.0:8000 &
+
+
+关键字查询：http://192.168.1.17:8000/keywordSearch/
+自动化创意筛选：http://192.168.1.17:8000/materialFilter
+商业兴趣定向：http://192.168.1.17:8000/businessInterestSearch/
+
+
