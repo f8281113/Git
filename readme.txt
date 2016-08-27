@@ -5,3 +5,4 @@ Git is free software.
 
 2
 stupid  boss
+Creating a new branch is quick.
