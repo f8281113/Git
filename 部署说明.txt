@@ -17,3 +17,4 @@ sudo nohup python manage.py runserver 0.0.0.0:8000 &
 商业兴趣定向：http://192.168.1.17:8000/businessInterestSearch/
 
 
+add by liaoguojie
